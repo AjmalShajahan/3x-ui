@@ -5,13 +5,13 @@ go 1.20
 require (
 	github.com/Workiva/go-datastructures v1.1.0
 	github.com/gin-contrib/sessions v0.0.4
-	github.com/gin-gonic/gin v1.9.0
+	github.com/gin-gonic/gin v1.9.1
 	github.com/go-cmd/cmd v1.4.1
 	github.com/goccy/go-json v0.10.2
 	github.com/mymmrac/telego v0.24.0
 	github.com/nicksnyder/go-i18n/v2 v2.2.1
 	github.com/op/go-logging v0.0.0-20160315200505-970db520ece7
-	github.com/pelletier/go-toml/v2 v2.0.7
+	github.com/pelletier/go-toml/v2 v2.0.8
 	github.com/robfig/cron/v3 v3.0.1
 	github.com/shirou/gopsutil/v3 v3.23.4
 	github.com/xtls/xray-core v1.8.1
@@ -25,7 +25,7 @@ require (
 require (
 	github.com/BurntSushi/toml v1.2.1 // indirect
 	github.com/andybalholm/brotli v1.0.5 // indirect
-	github.com/bytedance/sonic v1.8.9 // indirect
+	github.com/bytedance/sonic v1.9.1 // indirect
 	github.com/chenzhuoyu/base64x v0.0.0-20221115062448-fe3a3abad311 // indirect
 	github.com/fasthttp/router v1.4.19 // indirect
 	github.com/gabriel-vasile/mimetype v1.4.2 // indirect
